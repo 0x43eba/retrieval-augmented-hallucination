@@ -1,6 +1,7 @@
 You need to install LM Studio for this to work, then open it to network. You will also need
 to provide your own text corpus. After that, it works more or less like a full-text search
-engine & summarizer. The summarizer is very flaky, and prone to hallucinations.
+engine & summarizer. The summarizer is very flaky, and prone to hallucinations. If that's
+your thing, then have fun. It will be a wild time.
 
 See my article where I reverse engineer a hallucination here: [TODO]
 
