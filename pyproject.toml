@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "rag"
+version = "0.1.0"
+description = ""
+authors = ["skill-issue-tbh <skill-issue-tbh>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+weaviate-client = "^4.8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+rag = 'rag.main:start'
